@@ -1,0 +1,38 @@
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 500;
+  font-size: var(--font-size-big);
+
+  &__item {
+    display: inline-block;
+    text-transform: uppercase;
+    color: var(--pallete-color-white);
+    text-decoration: none;
+    margin: 0 0 0 20px;
+
+    &:first-child {
+      margin-left: 0
+    }
+
+    &--highlighted {
+      font-weight: 700;
+    }
+  }
+
+  @media (--mobile-viewport) {
+    display: block;
+    font-size: var(--font-size-small);
+
+    &__group {
+      display: flex;
+      justify-content: space-around;
+      text-align: center;
+      padding: 4px 0;
+
+      &:first-child {
+        margin-bottom: 8px;
+      }
+    }
+  }
+}

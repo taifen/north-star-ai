@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+
+{{ partial "intro" . }}
+{{ partial "conf-description" . }}
+
+{{ range $.Site.Data.schedule }}
+   {{ partial "conf-schedule" . }}
+{{ end }}
+
+{{ partial "conf-location" . }}
+
+{{ range $.Site.Data.speakers }}
+   {{ partial "conf-speakers" . }}
+{{ end }}
+
+{{ partial "footer" . }}

@@ -1,0 +1,19 @@
+<div class="section section--conf-speakers">
+  <div class="container">
+    <h2 class="section__title">
+      Spe<span class="a">a</span>ke<span class="r">r</span>s
+    </h2>
+    <ul class="speakers">
+      {{ range .speakers }}
+      <li class="speakers__item">
+        <span class="speakers__item-pic">
+          <img src="images/speakers/{{ .pic}}" alt="">
+        </span>
+        <span class="speakers__item-name">{{ .name}}</span>
+        <span class="speakers__item-role">{{ .role}}</span>
+        <span class="speakers__item-topic">{{ .topic}}</span>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>

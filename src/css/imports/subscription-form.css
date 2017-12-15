@@ -1,0 +1,14 @@
+.subscription-form {
+
+  &__title {
+    display: block;
+    margin: 0 0 20px 0;
+    font-size: 32px;
+  }
+
+  @media (--mobile-viewport) {
+    &__title {
+      text-align: center;
+    }
+  }
+}

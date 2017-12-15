@@ -1,0 +1,55 @@
+.section {
+  display: block;
+  padding: 60px 0;
+
+  &--conf-description {
+    font-size: 32px;
+    // text-align: center;
+    background: #5A5A5A;
+  }
+
+  &--conf-schedule {
+    background: #404040;
+  }
+
+  &--conf-speakers {
+    background: #545454;
+  }
+
+  &__title {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 500;
+    margin: 0 0 40px 0;
+  }
+
+  @media (--tablet-viewport) {
+    padding: 32px 0;
+
+    &__title {
+      font-size: 44px;
+      margin-bottom: 28px;
+    }
+  }
+
+  @media (--mobile-viewport) {
+    padding: 32px 0;
+
+    &__title {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+  }
+}
+
+.a {
+  color: var(--pallete-color-green);
+}
+.r {
+  color: var(--pallete-color-teal);
+}
+.t {
+  color: var(--pallete-color-red);
+}

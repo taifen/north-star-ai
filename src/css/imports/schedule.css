@@ -1,0 +1,66 @@
+.schedule {
+  display: block;
+  margin: 0 0 40px 0;
+  padding: 0;
+  list-style: none;
+  font-size: 32px;
+
+  &__item {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px 0;
+    border-bottom: 1px solid var(--pallete-color-light);
+
+    &-time {
+      margin: 0 80px 0 0;
+      min-width: 190px;
+    }
+
+    &-topic {
+      display: block;
+      margin: 0 0 4px 0;
+    }
+
+    &-speaker {
+      display: block;
+      text-transform: uppercase;
+      font-size: var(--font-size-default);
+    }
+
+    &-details {
+      display: block;
+
+      & >:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  @media (--tablet-viewport) {
+    font-size: 28px;
+
+    &__item {
+      width: auto;
+
+      &-time {
+        margin-right: 40px;
+      }
+    }
+  }
+
+  @media (--mobile-viewport) {
+    font-size: 24px;
+
+    &__item {
+      display: block;
+      width: auto;
+      padding: 8px 0;
+
+      &-time {
+        min-width: 0;
+        font-size: 28px;
+      }
+    }
+  }
+}

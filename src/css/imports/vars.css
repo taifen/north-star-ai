@@ -1,0 +1,15 @@
+:root {
+  --font-size-default: 20px;
+  --font-size-big: 24px;
+  --font-size-small: 16px;
+  --pallete-color-dark:  #282828;
+  --pallete-color-light:  #b0b0b0;
+  --pallete-color-white:  #ffffff;
+  --pallete-color-red:  #ff0000;
+  --pallete-color-teal:  #0096a5;
+  --pallete-color-green:  #969614;
+
+  @custom-media --mobile-viewport (max-width: 737px);
+  @custom-media --tablet-viewport (width > 737px) and (width < 1024px);
+  @custom-media --portable-viewport (max-width: 1024px);
+}

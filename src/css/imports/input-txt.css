@@ -1,0 +1,25 @@
+.input-txt {
+  display: inline-block;
+  min-width: 200px;
+
+  &--width-full {
+    display: block;
+    width: 100%;
+    margin: 0 0 16px 0;
+  }
+
+  &__field {
+    display: block;
+    width: 100%;
+    color: inherit;
+    background: none;
+    outline: 0;
+    border: none;
+    border-bottom: 1px solid var(--pallete-color-light);
+    padding: 6px 12px;
+
+    &::placeholder {
+      text-transform: uppercase;
+    }
+  }
+}

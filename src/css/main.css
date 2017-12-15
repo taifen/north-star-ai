@@ -1,0 +1,86 @@
+@import "imports/vars.css";
+@import "imports/normalize.css";
+@import "imports/fonts.css";
+@import "imports/page-header.css";
+@import "imports/page-footer.css";
+@import "imports/input-txt.css";
+@import "imports/main-nav.css";
+@import "imports/social-links.css";
+@import "imports/intro.css";
+@import "imports/section.css";
+@import "imports/schedule.css";
+@import "imports/location.css";
+@import "imports/speakers.css";
+@import "imports/subscription-form.css";
+@import "imports/article.css";
+
+@lost gutter 40px;
+@lost flexbox flex;
+
+* {
+  box-sizing:border-box;
+}
+
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Halcyon', sans-serif;
+  background: var(--pallete-color-dark);
+  color: var(--pallete-color-white);
+  font-size: var(--font-size-default);
+  line-height: 1.35;
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  min-height: 100vh;
+  margin: 0 auto;
+}
+
+.page-wrapper {
+  flex: 1 0 auto;
+}
+
+.page-content {
+  padding: 40px 0;
+}
+
+.container {
+  display: block;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 40px;
+
+  @media (--mobile-viewport) {
+    padding: 0 16px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: var(--pallete-color-white);
+
+  &:hover {
+    color: var(--pallete-color-teal);
+  }
+}
+
+p {
+  margin: 0 0 20px 0;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.txt-center {
+  text-align: center;
+}

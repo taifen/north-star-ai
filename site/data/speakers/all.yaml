@@ -1,0 +1,29 @@
+speakers:
+    - name: Siim Sikkut
+      role: Government CIO of Estonia.
+      pic: siim_sikkut.jpg
+
+    - name: Ahti Heinla
+      role: CEO, CTO and co-founder at Starship Technologies
+      topic:
+      pic: ahti_heinla.jpg
+
+    - name: Sayan Pathak
+      role: Principal Engineer and ML Scientist
+      topic:
+      pic: sayan_pathak.jpg
+
+    - name: Maxim Orlovsky
+      role: "AI & Blockchain expert, scientist"
+      topic:
+      pic: dr_maxim_orlovsky.jpeg
+
+    - name: Jaan Altosaar
+      role: "Physics PhD student"
+      topic:
+      pic: jaan_altosaar.jpeg
+
+    - name: Peeter Meos, Andrus Kuus
+      role: Software Engineers
+      topic:
+      pic: temp.png

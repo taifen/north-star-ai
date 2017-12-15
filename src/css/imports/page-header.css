@@ -1,0 +1,8 @@
+.page-header {
+  display: block;
+  padding: 20px 0;
+
+  @media (--mobile-viewport) {
+    padding: 16px 0;
+  }
+}

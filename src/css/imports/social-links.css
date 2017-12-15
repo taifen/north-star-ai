@@ -1,0 +1,26 @@
+.social-links {
+  display: block;
+  margin: 0 0 20px 0;
+
+  &__item {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 0 0 20px;
+    color: var(--pallete-color-light);
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &-icon {
+      display: block;
+      width: 40px;
+      height: 40px;
+      fill: currentColor;
+    }
+  }
+
+  @media (--mobile-viewport) {
+    text-align: center;
+  }
+}

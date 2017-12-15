@@ -1,0 +1,22 @@
+<div class="section section--conf-schedule">
+  <div class="container">
+    <h2 class="section__title">
+      Confe<span class="r">r</span>ence schedule
+    </h2>
+    <ul class="schedule">
+      {{ range .schedule }}
+      <li class="schedule__item">
+        <span class="schedule__item-time">{{ .time}}</span>
+        <span class="schedule__item-details">
+          {{ if .topic }}
+            <span class="schedule__item-topic">{{ .topic}}</span>
+          {{ end }}
+          {{ if .speaker }}
+            <span class="schedule__item-speaker">{{ .speaker}}</span>
+          {{ end }}
+        </span>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
