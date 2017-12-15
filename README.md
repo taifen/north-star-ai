@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [yarn](https://www.yarnjs.com/get-yarn) versions installed.
+You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [yarn](https://yarnpkg.com/en/docs/install) versions installed.
 
 Next step, clone this repository and run:
 
