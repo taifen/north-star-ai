@@ -2,19 +2,19 @@
 
 ### Prerequisites
 
-You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed.
+You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [yarn](https://www.yarnjs.com/get-yarn) versions installed.
 
 Next step, clone this repository and run:
 
 ```bash
-npm install
+yarn install
 ```
 ### Development
 
 While developing your website, use:
 
 ```bash
-npm start
+yarn start
 ```
 
 or
@@ -30,13 +30,13 @@ Then visit http://localhost:3000/ *- or a new browser windows popped-up already 
 To build a static version of the website inside the `/dist` folder, run:
 
 ```bash
-npm run build
+yarn run build
 ```
 
 To get a preview of posts or articles not yet published, run:
 
 ```bash
-npm run build-preview
+yarn run build-preview
 ```
 
 ## Structure
@@ -72,7 +72,7 @@ will end up being available as `/favicon.ico` and so on...
 
 The `src/js/app.js` file is the entrypoint for webpack and will be built to `/dist/app.js`.
 
-You can use **ES6** and use both relative imports or import libraries from npm.
+You can use **ES6** and use both relative imports or import libraries from yarn.
 
 Any CSS file directly under the `src/css/` folder will get compiled with [PostCSS Next](http://cssnext.io/)
 to `/dist/css/{filename}.css`. Import statements will be resolved as part of the build
