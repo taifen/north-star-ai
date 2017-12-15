@@ -51,6 +51,10 @@ body {
 
 .page-content {
   padding: 40px 0;
+
+  @media (--mobile-viewport) {
+    padding: 20px 0;
+  }
 }
 
 .container {

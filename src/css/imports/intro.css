@@ -21,6 +21,6 @@
   }
 
   @media (--mobile-viewport) {
-    height: calc(100vh - 98px);
+    height: calc(100vh - 84px);
   }
 }

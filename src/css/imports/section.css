@@ -4,7 +4,7 @@
 
   &--conf-description {
     font-size: 32px;
-    // text-align: center;
+    text-align: center;
     background: #5A5A5A;
   }
 
@@ -36,6 +36,10 @@
 
   @media (--mobile-viewport) {
     padding: 32px 0;
+
+    &--conf-description {
+      font-size: var(--font-size-big);
+    }
 
     &__title {
       font-size: 36px;

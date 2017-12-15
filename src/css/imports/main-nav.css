@@ -34,5 +34,11 @@
         margin-bottom: 8px;
       }
     }
+
+    &__item {
+      &--highlighted {
+        font-size: var(--font-size-default);
+      }
+    }
   }
 }

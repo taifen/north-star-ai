@@ -37,11 +37,20 @@
   }
 
   @media (--mobile-viewport) {
+    margin-bottom: 0;
+
     &__item {
-      lost-column: 1/2;
+      lost-column: 1/2 0 20px;
+      font-size: var(--font-size-small);
+      margin-bottom: 12px;
 
       &:nth-child(2n) {
         margin-right: 0 !important;
+      }
+
+      &-name {
+        font-size: var(--font-size-default);
+        margin-bottom: 0;
       }
     }
   }
