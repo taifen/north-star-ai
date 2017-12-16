@@ -9,17 +9,17 @@ speakers:
       pic: ahti_heinla.jpg
 
     - name: Sayan Pathak
-      role: Principal Engineer and ML Scientist
+      role: Principal Engineer and ML Scientist, Microsoft
       topic:
       pic: sayan_pathak.jpg
 
     - name: Maxim Orlovsky
-      role: "AI & Blockchain expert, scientist"
+      role: "AI & Blockchain expert, scientist", Pandora Boxchain
       topic:
       pic: dr_maxim_orlovsky.jpeg
 
     - name: Jaan Altosaar
-      role: "Physics at Princeton"
+      role: "Physics, Princeton"
       topic:
       pic: jaan_altosaar.jpeg
 
