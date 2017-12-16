@@ -29,23 +29,23 @@ schedule:
       topic: Lunch & Demo
 
     - time: 13:50 — 14:50
-      topic: TBA
+      topic: TBA: send us your proposal
 
     - time: 14:50 — 15:50
-      topic: Data Science Process
-      speaker: Andrus Kuus
+      topic: TBA: send us your proposal
 
     - time: 15:50 — 16:20
       topic: Coffee break & Demo
 
     - time: 16:20 — 16:50
-      topic: TBA
+      topic: Data Science Process
+      speaker: Andrus Kuus
 
     - time: 16:50 — 17:20
-      topic: TBA
+      topic: TBA: send us your proposal
 
     - time: 17:20 — 17:40
-      topic: TBA
+      topic: TBA: send us your proposal
 
     - time: 17:40 — 18:00
       topic: Closing and announcements
