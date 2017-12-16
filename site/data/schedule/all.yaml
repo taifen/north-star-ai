@@ -7,20 +7,23 @@ schedule:
       speaker: Korraldaja + Siim Sikkut
 
     - time: 9:40 — 10:25
-      topic: Keynote
+      topic: Deep Learning
       speaker: Sayan Pathak
 
     - time: 10:25 — 10:25
       topic: Coffee break & Demo
 
     - time: 10:50 — 11:20
-      topic: TBA
+      topic: Machine Learning
+      speaker: Jaan Aaltosaar
 
     - time: 11:20 — 12:00
-      topic: TBA
+      topic: Robotics
+      speaker: Ahti Heinla
 
     - time: 12:00 — 12:30
-      topic: TBA
+      topic: AI & Blockchain
+      speaker: Maxim Orlovsky
 
     - time: 12:30 — 13:50
       topic: Lunch & Demo
