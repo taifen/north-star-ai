@@ -7,7 +7,7 @@ schedule:
       speaker: Organizer + Siim Sikkut
 
     - time: 9:40 — 10:25
-      topic: Deep Learning
+      topic: Scalable Deep Learning at Microsoft
       speaker: Sayan Pathak
 
     - time: 10:25 — 10:50
@@ -29,7 +29,8 @@ schedule:
       topic: Lunch & Demo
 
     - time: 13:50 — 14:50
-      topic: TBA, send us your proposal
+      topic: Data Science in Python
+      speaker: Peter Wang
 
     - time: 14:50 — 15:50
       topic: TBA, send us your proposal
