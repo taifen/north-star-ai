@@ -2,6 +2,8 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "North Star AI"
+[params]
+    TicketsUrl = "https://en.xing-events.com/LWAMGSZ.html"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:

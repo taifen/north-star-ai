@@ -22,11 +22,12 @@
 
   @media (--mobile-viewport) {
     display: block;
-    font-size: var(--font-size-small);
+    font-size: var(--font-size-default);
 
     &__group {
       display: flex;
-      justify-content: space-around;
+      flex-wrap: wrap;
+      justify-content: center;
       text-align: center;
       padding: 4px 0;
 
@@ -36,6 +37,8 @@
     }
 
     &__item {
+      padding: 6px 4px;
+
       &--highlighted {
         font-size: var(--font-size-default);
       }
