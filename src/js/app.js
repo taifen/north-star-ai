@@ -1,5 +1,5 @@
 // JS Goes here - ES6 supported
-const initMap = () => {
+(function() {
   const place = {lat: 59.444430, lng: 24.750592};
 
   var map = new google.maps.Map(document.getElementById("map"), {
@@ -13,6 +13,4 @@ const initMap = () => {
     map: map
   });
   /* eslint-enable */
-};
-
-window.initMap = initMap;
+})();
