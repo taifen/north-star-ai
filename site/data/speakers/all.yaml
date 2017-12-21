@@ -31,3 +31,8 @@ speakers:
       role: Software Engineers
       topic:
       pic: peeter.jpg
+      
+      - name: Hendrik Luuk
+      role: "CTO & cofounder, Alphablues"
+      topic:
+      pic: 
