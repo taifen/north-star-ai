@@ -16,6 +16,10 @@
     background: #545454;
   }
 
+  &--conf-sponsors {
+    background: #5A5A5A;
+  }
+
   &__title {
     display: block;
     text-align: center;

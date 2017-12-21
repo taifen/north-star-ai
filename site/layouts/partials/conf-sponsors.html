@@ -1,0 +1,10 @@
+<div class="sponsors txt-center   {{ if .big }}sponsors--big{{ end }}">
+  <h3 class="sponsors__title">{{ .title }}</h3>
+  <div class="sponsors__content txt-center">
+    {{ range .list}}
+      <a href="{{ .website}}" target="_blank" class="sponsors__link">
+        <img src="images/sponsors/{{ .logo}}" alt="{{ .name}}">
+      </a>
+    {{ end }}
+  </div>
+</div>

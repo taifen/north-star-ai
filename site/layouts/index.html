@@ -13,4 +13,13 @@
    {{ partial "conf-speakers" . }}
 {{ end }}
 
+<div class="section section--conf-sponsors">
+  <div class="container">
+    {{ range $.Site.Data.sponsors }}
+       {{ partial "conf-sponsors" . }}
+    {{ end }}
+  </div>
+</div>
+
+
 {{ partial "footer" . }}

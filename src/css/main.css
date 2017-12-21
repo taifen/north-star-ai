@@ -94,3 +94,69 @@ h3 {
   font-size: 32px;
   font-weight: 500;
 }
+
+.sponsors {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0 0 60px 0;
+
+  &__title {
+    margin: 0 60px 0 0;
+  }
+
+  &__content {
+    display: flex;
+    flex: 1;
+    align-items: center;
+  }
+
+  &__link {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 40px;
+
+    & img {
+      display: inline-block;
+      vertical-align: top;
+      max-width: 250px;
+    }
+  }
+
+  &--big {
+    & img {
+      max-width: 70%;
+
+      @media (--tablet-viewport) {
+        min-width: 100%;
+      }
+    }
+  }
+
+  @media (--mobile-viewport) {
+    display: block;
+
+    &__title {
+      margin: 0 0 40px 0;
+    }
+
+    &__content {
+      display: block;
+    }
+
+    &__link {
+      display: block;
+      margin: 0 0 40px 0;
+    }
+
+    & img {
+      max-width: 70%;
+    }
+
+    &--big {
+      & img {
+        max-width: 100%;
+      }
+    }
+  }
+}
