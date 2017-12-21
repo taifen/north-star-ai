@@ -20,7 +20,7 @@
     }
   }
 
-  @media (--mobile-viewport) {
+  @media (--portable-viewport) {
     display: block;
     font-size: var(--font-size-default);
 
