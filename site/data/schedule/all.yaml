@@ -50,5 +50,5 @@ schedule:
     - time: 17:40 — 18:00
       topic: Closing and announcements
 
-    - time: 18:00
-      topic: Happy hour
+    - time: 18:30 - 23:30
+      topic: Panel Discussion and Networking Event
