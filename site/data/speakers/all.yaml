@@ -8,7 +8,7 @@ speakers:
       pic: siim_sikkut.jpg
 
     - name: Ahti Heinla
-      role: CEO, CTO and co-founder at Starship Technologies
+      role: CEO, CTO and Co-founder at Starship Technologies
       topic:
       pic: ahti_heinla.jpg
 
@@ -18,7 +18,7 @@ speakers:
       pic: SayanPathak2_2017_1_1_crop.jpg
 
     - name: Maxim Orlovsky
-      role: "AI & Blockchain expert, scientist, Pandora Boxchain"
+      role: "AI & Blockchain Expert, Founder at Pandora Boxchain"
       topic:
       pic: dr_maxim_orlovsky.jpeg
 
