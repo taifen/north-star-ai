@@ -99,3 +99,4 @@ globals:
   process: true
   ENV: true
   module: true
+  google: true

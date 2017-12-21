@@ -7,5 +7,18 @@
 
   &__map {
     lost-column: 2/3;
+    height: 400px;
+  }
+
+  @media (--mobile-viewport) {
+    &__description {
+      margin: 0 0 20px 0;
+      text-align: center;
+    }
+
+    &__description,
+    &__map {
+      lost-column: 1/1;
+    }
   }
 }

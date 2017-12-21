@@ -1,4 +1,18 @@
 // JS Goes here - ES6 supported
+const initMap = () => {
+  const place = {lat: 59.444430, lng: 24.750592};
 
-// Say hello
-// console.log("🦊 Hello! Edit me in src/js/app.js");
+  var map = new google.maps.Map(document.getElementById("map"), {
+    zoom: 17,
+    center: place
+  });
+
+  /* eslint-disable no-unused-vars */
+  const marker = new google.maps.Marker({
+    position: place,
+    map: map
+  });
+  /* eslint-enable */
+};
+
+window.initMap = initMap;
