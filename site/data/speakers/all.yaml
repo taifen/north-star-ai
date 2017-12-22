@@ -31,4 +31,9 @@ speakers:
       role: Software Engineers
       topic:
       pic: peeter.jpg
+
+    - name: Mattias Nilsson
+      role: "AI Researcher at FOI, Swedish Defence Research Agency"
+      topic:
+      pic: 
       
