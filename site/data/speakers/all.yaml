@@ -1,4 +1,4 @@
-speakers:
+ speakers:
     - name: Peter Wang
       role: CTO at Anaconda
       pic: Peter_Wang_profile_photo.jpg
@@ -35,3 +35,4 @@ speakers:
     - name: Mattias Nilsson
       role: "AI Researcher at FOI, Swedish Defence Research Agency"
       topic:
+      pic: 
