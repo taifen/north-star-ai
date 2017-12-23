@@ -14,16 +14,16 @@ schedule:
       topic: Coffee break
 
     - time: 10:50 — 11:20
-      topic: Machine Learning
-      speaker: Jaan Aaltosaar
+      topic: AI & Blockchain using Game Theory
+      speaker: Maxim Orlovsky
 
     - time: 11:20 — 12:00
       topic: Robotics
       speaker: Ahti Heinla
 
     - time: 12:00 — 12:30
-      topic: AI & Blockchain using Game Theory
-      speaker: Maxim Orlovsky
+      topic: Large-scale meal recommendation using deep exponential families
+      speaker: Jaan Aaltosaar
 
     - time: 12:30 — 13:50
       topic: Lunch & Demo
