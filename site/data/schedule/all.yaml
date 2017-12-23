@@ -37,7 +37,8 @@ schedule:
       speaker: Mattias Nilsson
     
     - time: 15:20 - 15:50
-      topic: TBA, send us your proposal - triin@aiconf.tech
+      topic: Automating CS chat via natural language understanding
+      speaker: Hendrik Luuk
 
     - time: 15:50 — 16:20
       topic: Coffee break & Demo
