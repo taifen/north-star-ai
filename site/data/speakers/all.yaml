@@ -1,3 +1,4 @@
+
  speakers:
     - name: Peter Wang
       role: CTO at Anaconda
@@ -34,5 +35,10 @@
 
     - name: Mattias Nilsson
       role: "AI Researcher at FOI, Swedish Defence Research Agency"
+      topic:
+      pic: 
+
+    - name: Hendrik Luuk
+      role: "CTO at AlphaBlues"
       topic:
       pic: 
