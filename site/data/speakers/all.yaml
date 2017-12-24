@@ -3,7 +3,7 @@
     - name: Peter Wang
       role: CTO at Anaconda
       pic: Peter_Wang_profile_photo.jpg
-    
+
     - name: Siim Sikkut
       role: Government CIO of Estonia.
       pic: siim_sikkut.jpg
@@ -36,7 +36,7 @@
     - name: Mattias Nilsson
       role: "AI Researcher at FOI, Swedish Defence Research Agency"
       topic:
-      pic: mattias_nilsson.JPG 
+      pic: mattias-nilsson.jpg
 
     - name: Hendrik Luuk
       role: "CTO at AlphaBlues"
