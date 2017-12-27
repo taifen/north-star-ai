@@ -43,7 +43,11 @@ schedule:
     - time: 15:50 — 16:20
       topic: Coffee break & Demo
 
-    - time: 16:20 — 17:40
+    - time: 16:20 - 16:50
+      topic: Dataset Shift in ML
+      speaker: Peter Prettenhofer
+
+    - time: 16:50 — 17:40
       topic: TBA, send us your proposal - triin@aiconf.tech
       
     - time: 17:40 — 18:00
