@@ -29,8 +29,8 @@
       pic: jaan_altosaar.jpeg
 
     - name: Peeter Meos, Andrus Kuus
-      role: Software Engineers
-      topic:
+      role: "Software Engineer at Proekspert"
+      topic: Streamlining team work and development processes in Data Science projects
       pic: peeter.jpg
 
     - name: Mattias Nilsson
