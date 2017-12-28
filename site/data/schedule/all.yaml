@@ -47,7 +47,11 @@ schedule:
       topic: Dataset Shift in ML
       speaker: Peter Prettenhofer
 
-    - time: 16:50 — 17:40
+    - time: 16:50 — 17:10
+      topic: Streamlining team work and development processes in Data Science projects
+      speaker: Peeter Meos 
+      
+    - time: 17:10 — 17:40 
       topic: TBA, send us your proposal - triin@aiconf.tech
       
     - time: 17:40 — 18:00
