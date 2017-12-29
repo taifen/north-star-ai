@@ -41,7 +41,7 @@ schedule:
       speaker: Hendrik Luuk, AlphaBlues
 
     - time: 15:50 — 16:20
-      topic: Coffee break & Demo
+      topic: Coffee break
 
     - time: 16:20 - 16:50
       topic: Dataset Shift in ML
