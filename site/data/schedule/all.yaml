@@ -7,37 +7,38 @@ schedule:
       speaker: Organizer + Siim Sikkut, Estonian Government
 
     - time: 9:40 — 10:25
-      topic: Scalable Deep Learning at Microsoft
+      topic: Scalable Deep Learning at Microsoft with Cognitive Toolkit & Open Neural Net Exchange
       speaker: Sayan Pathak, Microsoft
 
     - time: 10:25 — 10:50
       topic: Coffee break
 
     - time: 10:50 — 11:20
-      topic: AI & Blockchain using Game Theory
+      topic: How AI benefits from Blockchain and Game Theory using Distributed Censorship-resistant Consensus
+Protocol for Decentralised Parallel Computing
       speaker: Maxim Orlovsky, Pandora Boxchain
 
     - time: 11:20 — 12:00
-      topic: Robotics
+      topic: Designing Fully Autonomous Robots
       speaker: Ahti Heinla, Starship
 
     - time: 12:00 — 12:30
-      topic: Large-scale meal recommendation using deep exponential families
+      topic: Large-scale Meal Recommendation Using Deep Exponential Families
       speaker: Jaan Aaltosaar, Princeton
 
     - time: 12:30 — 13:50
       topic: Lunch & Demo
 
     - time: 13:50 — 14:50
-      topic: Data Science in Python
+      topic: Designing Data Science Systems in Python for GPU and Diversifying Hardware Era
       speaker: Peter Wang, Anaconda
 
     - time: 14:50 — 15:20
-      topic: Analysing Emotions with NLP
+      topic: Algorithms for Analysing Emotions with NLP
       speaker: Mattias Nilsson, FOI
     
     - time: 15:20 - 15:50
-      topic: Automating CS chat via natural language understanding
+      topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
       speaker: Hendrik Luuk, AlphaBlues
 
     - time: 15:50 — 16:20
