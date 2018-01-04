@@ -1,17 +1,18 @@
 {{ partial "header" . }}
 
 {{ partial "intro" . }}
+
 {{ partial "conf-description" . }}
+
+{{ range $.Site.Data.speakers }}
+   {{ partial "conf-speakers" . }}
+{{ end }}
 
 {{ range $.Site.Data.schedule }}
    {{ partial "conf-schedule" . }}
 {{ end }}
 
 {{ partial "conf-location" . }}
-
-{{ range $.Site.Data.speakers }}
-   {{ partial "conf-speakers" . }}
-{{ end }}
 
 <div class="section section--conf-sponsors">
   <div class="container">
