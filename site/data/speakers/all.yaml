@@ -1,6 +1,11 @@
 
  speakers:
 
+    - name: Sayan Pathak
+      role: "Principal Engineer and ML Scientist, Microsoft. Faculty at University of Washington"
+      topic:
+      pic: SayanPathak2_2017_1_1_crop.jpg
+
     - name: Siim Sikkut
       role: Government CIO of Estonia.
       pic: siim_sikkut.jpg
@@ -10,10 +15,9 @@
       topic:
       pic: ahti_heinla.jpg
 
-    - name: Sayan Pathak
-      role: "Principal Engineer and ML Scientist, Microsoft. Faculty at University of Washington"
-      topic:
-      pic: SayanPathak2_2017_1_1_crop.jpg
+    - name: Travis Oliphant
+      role: "CEO at Anaconda, author of SciPy and NumPy"
+      pic: 
 
     - name: Maxim Orlovsky
       role: "AI & Blockchain Expert, Founder at Pandora Boxchain"
