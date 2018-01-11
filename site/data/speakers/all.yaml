@@ -17,7 +17,7 @@
 
     - name: Travis Oliphant
       role: "CEO at Anaconda, author of SciPy and NumPy"
-      pic: 
+      pic: travis_oliphant.jpg
 
     - name: Maxim Orlovsky
       role: "AI & Blockchain Expert, Founder at Pandora Boxchain"
