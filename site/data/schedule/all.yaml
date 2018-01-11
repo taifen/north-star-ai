@@ -29,8 +29,8 @@ schedule:
       topic: Lunch & Demo
 
     - time: 13:50 — 14:50
-      topic: To be announced, propose your topic to triin@aiconf.tech
-      speaker: 
+      topic: Designing Data Science Systems in Python for GPU and Diversifying Hardware Era
+      speaker: Travis Oliphant
 
     - time: 14:50 — 15:20
       topic: Algorithms for Analysing Emotions with NLP
