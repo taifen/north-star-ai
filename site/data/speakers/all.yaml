@@ -16,7 +16,7 @@
       pic: ahti_heinla.jpg
 
     - name: Travis Oliphant
-      role: "Board member at Anaconda, author of SciPy and NumPy"
+      role: "Creator of SciPy, NumPy and Numba. Board member at Anaconda"
       pic: travis_oliphant.jpg
 
     - name: Maxim Orlovsky
