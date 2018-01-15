@@ -21,10 +21,6 @@ schedule:
       topic: Building Self-Driving Delivery Robots
       speaker: Ahti Heinla, Starship
 
-    - time: 12:00 — 12:30
-      topic: Large-scale Meal Recommendation Using Deep Exponential Families
-      speaker: Jaan Altosaar, Princeton
-
     - time: 12:30 — 13:50
       topic: Lunch & Demo
 
@@ -32,13 +28,6 @@ schedule:
       topic: Designing Data Science Systems in Python for GPU and Diversifying Hardware Era
       speaker: Travis Oliphant
 
-    - time: 14:50 — 15:20
-      topic: Algorithms for Analysing Emotions with NLP
-      speaker: Mattias Nilsson, FOI
-    
-    - time: 15:20 - 15:50
-      topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
-      speaker: Hendrik Luuk, AlphaBlues
 
     - time: 15:50 — 16:20
       topic: Coffee break
@@ -50,13 +39,33 @@ schedule:
     - time: 16:50 — 17:10
       topic: Streamlining team work and development processes in Data Science projects
       speaker: Andrus Kuus, Proekspert
-      
-    - time: 17:10 — 17:40 
+
+    - time: 17:10 — 17:40
       topic: Semi-supervised learning in practice
       speaker: Antti Tarvainen, Curious AI
-      
+
     - time: 17:40 — 18:00
       topic: Closing and announcements
-      
+
     - time: 18:30 - 23:30
       topic: Panel Discussion and Networking Event
+
+parallel_schedule:
+    - time: 12:00 – 12:30
+      topic: Large-scale Meal Recommendation Using Deep Exponential Families
+      speaker: Jaan Altosaar, Princeton
+
+    - time: 14:20 – 14:50
+      topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
+      speaker: Hendrik Luuk, AlphaBlues
+
+    - time: 14:50 — 15:20
+      topic: Algorithms for Analysing Emotions with NLP
+      speaker: Mattias Nilsson, FOI
+
+    - time: 15:20 – 15:50
+      topic: Break + Coffee
+
+    - time: 15:50 – 16:50
+      topic: Elisa Workshop
+      speaker:

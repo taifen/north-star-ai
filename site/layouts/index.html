@@ -12,6 +12,19 @@
    {{ partial "conf-schedule" . }}
 {{ end }}
 
+{{ range $.Site.Data.schedule }}
+   {{ partial "conf-schedule-parallel" . }}
+{{ end }}
+
+<div class="section section--conf-description">
+  <div class="container">
+    <p class="txt-center">
+      <a href="{{ $.Site.Params.TicketsUrl }}" target="_blank" class="button">Get your ticket</a>
+    </p>
+  </div>
+</div>
+
+
 {{ partial "conf-location" . }}
 
 <div class="section section--conf-sponsors">
