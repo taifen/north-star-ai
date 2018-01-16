@@ -25,6 +25,9 @@ schedule:
       topic: To be announced, contact triin@aiconf.tech
       speaker:
 
+    - time: 12:25 – 13:40
+      topic: Lunch
+     
     - time: 13:40 — 14:20
       topic: How AI benefits from Blockchain and Game Theory with Scalable Censorship-resistant Consensus Protocol
       speaker: Maxim Orlovsky, Pandora Boxchain
