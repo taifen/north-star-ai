@@ -6,13 +6,13 @@ schedule:
       topic: Opening words
       speaker: Organizer + Siim Sikkut, Estonian Government
 
-    - time: 10:25 — 10:50
-      topic: Elisa
-      speaker:
-
     - time: 9:40 — 10:25
       topic: Scalable Deep Learning at Microsoft with Cognitive Toolkit and Open Neural Net Exchange
       speaker: Sayan Pathak, Microsoft
+
+    - time: 10:25 — 10:40
+      topic: ML applications from NLP to self-driving in 5G
+      speaker: Elisa
 
     - time: 10:40 — 11:05
       topic: Coffee break
@@ -81,5 +81,5 @@ parallel_schedule:
       topic: Break + Coffee
 
     - time: 15:50 – 16:50
-      topic: Elisa Workshop
-      speaker:
+      topic: Teaching machines with cellular network data
+      speaker: Elisa
