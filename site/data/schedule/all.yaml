@@ -65,7 +65,7 @@ schedule:
       topic: Networking Event at Taxify
 
 parallel_schedule:
-    - time: 12:00 – 12:30
+    - time: 13:40 – 14:20
       topic: Large-scale Meal Recommendation Using Deep Exponential Families
       speaker: Jaan Altosaar, Princeton
 
