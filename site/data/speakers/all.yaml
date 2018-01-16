@@ -53,3 +53,8 @@
       role: "Researcher at Curious AI"
       topic:
       pic: antti.jpg
+
+    - name: Antti Tarvainen
+      role: "Data Scientist & Engineer at Realeyes"
+      topic:
+      pic: pierre.jpg
