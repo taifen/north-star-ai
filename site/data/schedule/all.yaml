@@ -18,7 +18,7 @@ schedule:
       topic: Coffee break
 
     - time: 11:05 – 12:05
-      topic: Designing Data Science Systems in Python for GPU and Diversifying Hardware Era
+      topic: Scaling and Optimizing Python on Modern Hardware Infrastructure
       speaker: Travis Oliphant
 
     - time: 12:05 – 12:25
