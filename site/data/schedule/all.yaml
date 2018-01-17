@@ -11,7 +11,7 @@ schedule:
       speaker: Sayan Pathak, Microsoft
 
     - time: 10:25 — 10:40
-      topic: ML applications from NLP to self-driving in 5G
+      topic: ML Applications from NLP to Self-Driving in 5G
       speaker: Elisa
 
     - time: 10:40 — 11:05
@@ -22,7 +22,7 @@ schedule:
       speaker: Travis Oliphant
 
     - time: 12:05 – 12:25
-      topic: Streamlining team work and development processes in Data Science projects
+      topic: Streamlining Team Work and Development Processes in Data Science Projects
       speaker: Andrus Kuus, Proekspert
 
     - time: 12:25 – 13:40
@@ -44,11 +44,11 @@ schedule:
       topic: Coffee break
 
     - time: 15:50 — 16:20
-      topic: Semi-supervised learning in practice
+      topic: Semi-supervised Learning in Practice
       speaker: Antti Tarvainen, Curious AI
 
     - time: 16:20 — 16:50
-      topic: Measuring how emotions are driving buying behaviour using computer vision and ML
+      topic: Measuring How Emotions are Driving Buying Behaviour Using Computer Vision and ML
       speaker: Pierre Lupi-Chen
 
     - time: 16:55 — 17:35
@@ -81,5 +81,5 @@ parallel_schedule:
       topic: Break + Coffee
 
     - time: 15:50 – 16:50
-      topic: Teaching machines with cellular network data
+      topic: Teaching Machines with Cellular Network Data
       speaker: Elisa
