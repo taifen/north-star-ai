@@ -22,8 +22,8 @@ schedule:
       speaker: Travis Oliphant
 
     - time: 12:05 – 12:25
-      topic: To be announced, contact triin@aiconf.tech
-      speaker:
+      topic: Streamlining team work and development processes in Data Science projects
+      speaker: Andrus Kuus, Proekspert
 
     - time: 12:25 – 13:40
       topic: Lunch
@@ -37,8 +37,8 @@ schedule:
       speaker: Peter Prettenhofer, DataRobot
 
     - time: 14:50 — 15:20
-      topic: Streamlining team work and development processes in Data Science projects
-      speaker: Andrus Kuus, Proekspert
+      topic: To be announced, contact triin@aiconf.tech
+      speaker: 
 
     - time: 15:20 — 15:50
       topic: Coffee break
