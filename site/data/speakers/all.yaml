@@ -59,12 +59,14 @@
       topic:
       pic: pierre.jpg
       
+    - name: Roman Ustits 
+      role: "Head of Data Warehouse Development at Elisa"
+      topic:
+      pic: Roman.png
+
     - name: Markus Lippus
       role: "Co-Founder  & Data Scientist at MindTitan"
       topic:
       pic: Markus.jpg
       
-    - name: Roman Ustits 
-      role: "Head of Data Warehouse Development at Elisa"
-      topic:
-      pic: Roman.png
+   
