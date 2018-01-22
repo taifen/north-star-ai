@@ -99,7 +99,7 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  margin: 0 0 60px 0;
+  margin: 0 0 40px 0;
 
   &__title {
     margin: 0 60px 0 0;
@@ -110,6 +110,7 @@ h3 {
     flex: 1;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
   }
 
   &__link {
@@ -120,7 +121,8 @@ h3 {
     & img {
       display: inline-block;
       vertical-align: top;
-      max-width: 250px;
+      max-width: 320px;
+      margin: 0 0 40px 0;
     }
   }
 

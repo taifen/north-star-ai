@@ -7,3 +7,7 @@ list:
     - name: Starship
       website: "https://www.starship.xyz"
       logo: starship.png
+
+    - name: Transferwise
+      website: "https://transferwise.com/"
+      logo: TransferWise_logo.svg
