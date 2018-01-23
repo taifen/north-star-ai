@@ -11,3 +11,7 @@ list:
     - name: Transferwise
       website: "https://transferwise.com/"
       logo: TransferWise_logo.svg
+
+    - name: Work in Estonia
+      website: "https://www.workinestonia.com/"
+      logo: work_estonia_vertical_positive.svg
