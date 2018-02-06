@@ -19,7 +19,7 @@ schedule:
 
     - time: 11:05 – 12:05
       topic: Scaling and Optimizing Python on Modern Hardware Infrastructure
-      speaker: Travis Oliphant
+      speaker: Travis Oliphant, Anaconda
 
     - time: 12:05 – 12:25
       topic: Streamlining Team Work and Development Processes in Data Science Projects
@@ -38,7 +38,7 @@ schedule:
 
     - time: 14:50 — 15:20
       topic: Implementing flexible ML solutions
-      speaker: Habib Adam
+      speaker: Habib Adam, Transferwise
 
     - time: 15:20 — 15:50
       topic: Coffee break
@@ -75,7 +75,7 @@ parallel_schedule:
 
     - time: 14:50 — 15:20
       topic: Measuring How Emotions are Driving Buying Behaviour Using Computer Vision and ML
-      speaker: Pierre Lupi-Chen
+      speaker: Pierre Lupi-Chen, RealEyes
 
     - time: 15:20 – 15:50
       topic: Break + Coffee
