@@ -44,12 +44,12 @@ schedule:
       topic: Coffee break
 
     - time: 15:50 — 16:20
-      topic: Semi-supervised Learning in Practice
-      speaker: Antti Tarvainen, Curious AI
+      topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
+      speaker: Hendrik Luuk, AlphaBlues
 
     - time: 16:20 — 16:50
-      topic: Measuring How Emotions are Driving Buying Behaviour Using Computer Vision and ML
-      speaker: Pierre Lupi-Chen
+      topic: Algorithms for Analysing Emotions with NLP
+      speaker: Mattias Nilsson, FOI
 
     - time: 16:55 — 17:35
       topic: Building Self-Driving Delivery Robots
@@ -70,12 +70,12 @@ parallel_schedule:
       speaker: Jaan Altosaar, Princeton
 
     - time: 14:20 – 14:50
-      topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
-      speaker: Hendrik Luuk, AlphaBlues
+      topic: Semi-supervised Learning in Practice
+      speaker: Antti Tarvainen, Curious AI
 
     - time: 14:50 — 15:20
-      topic: Algorithms for Analysing Emotions with NLP
-      speaker: Mattias Nilsson, FOI
+      topic: Measuring How Emotions are Driving Buying Behaviour Using Computer Vision and ML
+      speaker: Pierre Lupi-Chen
 
     - time: 15:20 – 15:50
       topic: Break + Coffee
