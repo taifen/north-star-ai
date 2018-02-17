@@ -33,12 +33,12 @@ schedule:
       speaker: Maxim Orlovsky, Pandora Boxchain
 
     - time: 14:20 - 14:50
-      topic: Dataset Shift in ML
-      speaker: Peter Prettenhofer, DataRobot
-
-    - time: 14:50 — 15:20
       topic: Implementing flexible ML solutions
       speaker: Habib Adam, Transferwise
+
+    - time: 14:50 — 15:20
+      topic: Dataset Shift in ML
+      speaker: Peter Prettenhofer, DataRobot
 
     - time: 15:20 — 15:50
       topic: Coffee break
