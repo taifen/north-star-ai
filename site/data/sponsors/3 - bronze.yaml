@@ -15,3 +15,7 @@ list:
     - name: Work in Estonia
       website: "https://www.workinestonia.com/"
       logo: work_estonia_vertical_positive.svg
+
+    - name: Tallinn University of Technology
+      website: "https://www.ttu.ee/"
+      logo: ttu-white.svg
