@@ -6,80 +6,84 @@ schedule:
       topic: Opening words
       speaker: Organizer + Siim Sikkut, Estonian Government
 
-    - time: 9:40 — 10:25
+    - time: 9:35 — 10:20
       topic: Scalable Deep Learning at Microsoft with Cognitive Toolkit and Open Neural Net Exchange
       speaker: Sayan Pathak, Microsoft
 
-    - time: 10:25 — 10:40
+    - time: 10:20 — 10:35
       topic: Setting up End-to-end predictive customer care through ML
-      speaker: Elisa + MindTitan
+      speaker: Elisa + Markus Lippus, MindTitan
 
     - time: 10:40 — 11:05
       topic: Coffee break
 
-    - time: 11:05 – 12:05
+    - time: 11:00 – 12:00
       topic: Scaling and Optimizing Python on Modern Hardware Infrastructure
       speaker: Travis Oliphant, Anaconda
 
-    - time: 12:05 – 12:25
+    - time: 12:00 – 12:20
       topic: Streamlining Team Work and Development Processes in Data Science Projects
       speaker: Andrus Kuus, Proekspert
 
-    - time: 12:25 – 13:40
+    - time: 12:20 – 13:35
       topic: Lunch
      
-    - time: 13:40 — 14:20
+    - time: 13:35 — 14:10
       topic: How AI benefits from Blockchain and Game Theory with Scalable Censorship-resistant Consensus Protocol
       speaker: Maxim Orlovsky, Pandora Boxchain
 
-    - time: 14:20 - 14:50
-      topic: Implementing flexible ML solutions
-      speaker: Habib Adam, Transferwise
-
-    - time: 14:50 — 15:20
+    - time: 14:10 - 14:40
       topic: Dataset Shift in ML
       speaker: Peter Prettenhofer, DataRobot
 
-    - time: 15:20 — 15:50
+    - time: 14:40 — 15:10
+      topic: Implementing flexible ML solutions
+      speaker: Habib Adam, Transferwise
+      
+    - time: 15:10 — 15:35
       topic: Coffee break
 
-    - time: 15:50 — 16:20
-      topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
-      speaker: Hendrik Luuk, AlphaBlues
+    - time: 15:35 — 16:05
+      topic: Semi-supervised Learning in Practice
+      speaker: Antti Rasmus, Curious AI
 
-    - time: 16:20 — 16:50
-      topic: Algorithms for Analysing Emotions with NLP
-      speaker: Mattias Nilsson, FOI
-
-    - time: 16:55 — 17:35
+    - time: 16:05 — 16:35
+      topic: Measuring How Emotions are Driving Buying Behaviour Using Computer Vision and ML
+      speaker: Pierre Lupi-Chen, RealEyes
+      
+    - time: 16:45 — 17:15 
+      topic: Primer AI machines that can read and write
+      speaker: Sean Gourley, Primer AI
+    
+    - time: 17:15 — 17:50
       topic: Building Self-Driving Delivery Robots
       speaker: Ahti Heinla, Starship
 
-    - time: 17:35 — 17:50
+    - time: 17:50 — 18:00
       topic: Closing and announcements
 
     - time: 19:00 - 19:30
       topic: Panel Discussion at Taxify
 
-    - time: 19:30 - 22:30
+    - time: 18:30 - 22:30
       topic: Networking Event at Taxify
 
 parallel_schedule:
-    - time: 13:40 – 14:20
+    - time: 13:35 – 14:10
       topic: Large-scale Meal Recommendation Using Deep Exponential Families
       speaker: Jaan Altosaar, Princeton
 
-    - time: 14:20 – 14:50
-      topic: Semi-supervised Learning in Practice
-      speaker: Antti Rasmus, Curious AI
+    - time: 14:10 – 14:40
+     topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
+      speaker: Hendrik Luuk, AlphaBlues
 
-    - time: 14:50 — 15:20
-      topic: Measuring How Emotions are Driving Buying Behaviour Using Computer Vision and ML
-      speaker: Pierre Lupi-Chen, RealEyes
+    - time: 14:40 — 15:10
+     topic: Algorithms for Analysing Emotions with NLP
+      speaker: Mattias Nilsson, FOI
 
-    - time: 15:20 – 15:50
+    - time: 15:10 – 15:35
       topic: Break + Coffee
 
-    - time: 15:50 – 16:50
+    - time: 15:35 – 16:35
       topic: Teaching Machines with Cellular Network Data
       speaker: Elisa
