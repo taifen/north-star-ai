@@ -74,11 +74,11 @@ parallel_schedule:
       speaker: Jaan Altosaar, Princeton
 
     - time: 14:10 – 14:40
-     topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
+      topic: Automating CS Chat via Natural Language Semantic Understanding Using Neural Networks
       speaker: Hendrik Luuk, AlphaBlues
 
     - time: 14:40 — 15:10
-     topic: Algorithms for Analysing Emotions with NLP
+      topic: Algorithms for Analysing Emotions with NLP
       speaker: Mattias Nilsson, FOI
 
     - time: 15:10 – 15:35
