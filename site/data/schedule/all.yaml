@@ -44,7 +44,7 @@ schedule:
       topic: Coffee break
 
     - time: 15:35 — 16:05
-      topic: Semi-supervised Learning in Practice
+      topic: Developing AI that can imagine
       speaker: Antti Rasmus, Curious AI
 
     - time: 16:05 — 16:35
