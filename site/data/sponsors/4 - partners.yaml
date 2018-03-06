@@ -3,3 +3,7 @@ list:
     - name: University of Tartu Institute of Computer Science
       website: "https://www.ut.ee"
       logo: TY_arvutiteaduse_instituut_eng_valge-txt.png
+
+    - name: AlphaBlues
+      website: "https://alphablues.com/"
+      logo: alphablues.png
